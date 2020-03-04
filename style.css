@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=VT323&display=swap');
+
+.cyfra{
+
+height: 105px;
+width: 50px;
+/*border: 0.1px solid black;*/
+float: left;
+text-align: center;
+
+}
+
+body{
+
+
+  
+    width: 100%;
+    font-size: 100px;
+    overflow: hidden;
+    font-family: 'VT323', monospace;
+    color: #00FF41;
+    background-color: black;
+}
